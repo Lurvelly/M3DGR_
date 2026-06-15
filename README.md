@@ -29,6 +29,8 @@
 ---
 
 
+## News
+- **🔥`2026/06/14`**: We are excited to release a preview version of **[Ultra-Fusion](https://github.com/sjtuyinjie/Ultra-Fusion)** system,which unifies WIO, VIO, LIO, and LVIO in one configurable optimization framework, with optional wheel/GNSS fusion and online calibration.
 
 
 ## 1. Project Overview 🎯
