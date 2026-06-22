@@ -52,7 +52,7 @@ In this work, we propose a complete solution for robust SLAM on ground robots op
 ### 2.1 🔥 Latest works citing M3DGR(Updating!)
 We are excited to see that M3DGR continues to inspire follow-up works. To facilitate tracking the latest developments, we provide a curated list of papers citing M3DGR:
 
-
+ - [IROS2026] FAST-LIVGO: A Degeneracy-Robust LiDAR-Inertial-Visual-GNSS Fusion Odometry,  [[Paper](https://arxiv.org/abs/2606.19190)]
  - [TASE2026] Implicit Point-to-Voxel LiDAR-IMU SLAM,  [[Paper](https://ieeexplore.ieee.org/abstract/document/11480788)], [[code](https://github.com/LarryDong/p2v-slam)]
  - [RAL2026] R-VoxelMap: Accurate Voxel Mapping With Recursive Plane Fitting for Online LiDAR Odometry,  [[Paper](https://arxiv.org/pdf/2601.12377)], [[code](https://github.com/NKU-MobFly-Robotics/R-VoxelMap)]
  - [Arxiv2026] GenZ-LIO: Generalizable LiDAR-Inertial Odometry Beyond Indoor–Outdoor Boundaries, [[Paper](https://arxiv.org/pdf/2603.16273)]
